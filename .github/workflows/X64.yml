@@ -1,8 +1,8 @@
 name: Build OpenWrt X64
 
 on:
- release:
-    types: [published]
+# release:
+#    types: [published]
   push:
     branches:
       - master
